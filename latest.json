@@ -1,23 +1,23 @@
 {
-  "version": "0.3.57",
-  "notes": "Release 0.3.57",
+  "version": "0.3.65",
+  "notes": "Release 0.3.65",
   "pub_date": "2025-01-03T15:25:57Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.44/smart-folder-agent_0.3.44_x64.app.tar.gz"
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.65/smart-folder-agent_0.3.65_x64.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.44/smart-folder-agent_0.3.44_aarch64.app.tar.gz"
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.65/smart-folder-agent_0.3.65_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.44/smart-folder-agent_0.3.44_amd64.AppImage.tar.gz"
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.65/smart-folder-agent_0.3.65_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.44/smart-folder-agent_0.3.44_x64_en-US.msi.zip"
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.65/smart-folder-agent_0.3.65_x64_en-US.msi.zip"
     }
   }
 }
