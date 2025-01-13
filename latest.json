@@ -1,7 +1,7 @@
 {
-  "version": "0.3.99",
-  "notes": "Release 0.3.99",
-  "pub_date": "2025-01-11T15:25:57Z",
+  "version": "0.3.87",
+  "notes": "Release 0.3.87",
+  "pub_date": "2025-01-13T15:25:57Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "",
@@ -13,7 +13,7 @@
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.99/smart-folder-agent_0.3.99_amd64.deb"
+      "url": "https://github.com/nsrtechinc/smartfolderagent/releases/download/v0.3.87/smart-folder-agent_0.3.87_amd64.deb"
     },
     "windows-x86_64": {
       "signature": "",
